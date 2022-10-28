@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Make a VUE ticketing App",
+      "details": "learn vue 3",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "Learn more Vue",
+      "details": "Lorem ipsum",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
